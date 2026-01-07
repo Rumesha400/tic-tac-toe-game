@@ -2,7 +2,7 @@
 from tkinter import *
 from tkinter import messagebox
 import random
-
+ 
 class TIC_TAC_TOE_AI:
     def __init__(self, root):
         # Basic Initialization
