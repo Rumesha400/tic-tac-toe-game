@@ -24,7 +24,7 @@
 <h3 align="center"><b>Show 💘 by Starring this Repo</b></h3>
 
 ---
-<h3 align="center">💡 <b>Important Links</b> 💡</h3>
+<h3 align="center">💡 <b>Important Links</b> 💡</h3> 
 
 - #### [Follow Me on LinkedIn to Get Project Updates](https://www.linkedin.com/in/rumesha-ansari-358531283/ "LCO")
 
